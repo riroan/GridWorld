@@ -1,2 +1,3 @@
 # GridWorld
-grid world reinforcement learning(Q-learning) made by C++
+
+C++로 구현한 GridWorld Q-learning
